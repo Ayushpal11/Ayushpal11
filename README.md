@@ -1,7 +1,16 @@
-# 💫 About Me:
-👋 Hi, I’m Ayush Pal!<br>I’m a Computer Science & Engineering student at VIT Vellore (graduating May 2025), passionate about creating impactful tech solutions.<br>🔭 I’m currently working on:<br>Building scalable web applications and exploring advanced AI frameworks through exciting projects like Ask PDF and TaskFlow Manager.<br>👯 I’m looking to collaborate on:<br>Open-source projects related to web development, AI, or real-time systems.<br>🤝 I’m looking for help with:<br>Optimizing performance in large-scale AI-powered systems and improving deployment pipelines.<br>🌱 I’m currently learning:<br>DevOps practices, Web3 technologies, and advanced backend architectures.
+# 💫 About Me  
 
+Hi there! I’m **Ayush Pal**, a final-year Computer Science & Engineering student at **VIT Vellore** (graduating May 2025). I thrive on crafting innovative tech solutions, from scalable web apps to AI-powered systems.  
 
+### 🌟 What I’m Up To:  
+- 🚀 **Projects**: Building tools like **Ask PDF**, an AI-driven document assistant, and **TaskFlow Manager**, a workflow optimization app.  
+- 🌱 **Learning**: Diving into **DevOps**, **Web3**, and backend architectures to enhance scalability and performance.  
+- 🤝 **Collaborating**: Open to working on impactful open-source projects in **web development**, **AI**, or **real-time systems**.  
+
+### ⚡ Fun Fact:  
+I turned my love for coding into creative problem-solving tools like a real-time audio converter for high-fidelity enthusiasts!  
+
+Let’s connect and innovate together. 😊  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpal11/) 
 
