@@ -1,6 +1,6 @@
 # 💫 About Me  
 
-Hi there! I’m **Ayush Pal**, a final-year Computer Science & Engineering student at **VIT Vellore** (graduating May 2025). I thrive on crafting innovative tech solutions, from scalable web apps to AI-powered systems.  
+Hi there! I’m **Ayush Pal**, a rececnt CSE grad from **VIT Vellore** currently working at Payoneer. I thrive on crafting innovative tech solutions, from scalable web apps to AI-powered systems.  
 
 ### 🌟 What I’m Up To:  
 - 🚀 **Projects**: Building tools like **Ask PDF**, an AI-driven document assistant, and **TaskFlow Manager**, a workflow optimization app.  
