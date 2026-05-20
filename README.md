@@ -1,129 +1,119 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ayush Pal
+<div align="center">
 
-### 🚀 AI Backend Engineer | Applied AI | Distributed Systems
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+# Ayush Pal
 
-I’m a Computer Science graduate from **VIT Vellore** working as **Software Engineer** at **Payoneer** passionate about building scalable backend systems, AI-powered applications, and low-latency architectures.
+### AI Backend Engineer · Distributed Systems · Applied AI
 
-Currently focused on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpal11/)
+[![Payoneer](https://img.shields.io/badge/Payoneer-FF4800?style=for-the-badge&logo=payoneer&logoColor=white)](https://www.payoneer.com)
 
-* 🧠 LLMs, RAG Pipelines & AI Systems
-* ⚡ Backend Engineering & Distributed Systems
-* 📈 Reinforcement Learning & AI Infrastructure
-* 🚀 High-performance Real-Time Applications
-
-I enjoy building production-ready systems that combine strong engineering with practical AI.
+</div>
 
 ---
 
-# 🌟 Current Focus
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-* 🔭 Building enterprise-grade AI applications
-* 🌱 Exploring AI Infra, Kubernetes & scalable architectures
-* ⚙️ Working with FastAPI, Docker, Vector DBs & LLM workflows
-* 🧠 Researching Reinforcement Learning & Agentic AI Systems
-* 🤝 Open to collaborating on AI, Backend & Open Source projects
+CS graduate from **VIT Vellore**, currently a **Software Engineer at Payoneer** — building scalable backend systems, AI-powered applications, and low-latency architectures.
+
+**Currently focused on:**
+
+- 🧠 LLMs, RAG Pipelines & AI Systems
+- ⚡ Backend Engineering & Distributed Systems
+- 📈 Reinforcement Learning & AI Infrastructure
+- 🚀 High-performance Real-Time Applications
+
+<br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack
+## 🌟 Current Focus
+
+| Area | Details |
+|------|---------|
+| 🔭 Building | Enterprise-grade AI applications |
+| 🌱 Exploring | AI Infra, Kubernetes & scalable architectures |
+| ⚙️ Working with | FastAPI, Docker, Vector DBs & LLM workflows |
+| 🧠 Researching | Reinforcement Learning & Agentic AI Systems |
+| 🤝 Open to | Collaborating on AI, Backend & Open Source projects |
+
+---
+
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### ⚙️ Backend & AI
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge\&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vector DB](https://img.shields.io/badge/VectorDB-4B0082?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-blueviolet?style=for-the-badge)
-
----
+![RAG](https://img.shields.io/badge/RAG_Pipelines-blueviolet?style=for-the-badge)
 
 ### 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+### 🎨 Design & Other
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🧠 SimplifyX Enterprise RAG
-
-Enterprise-grade Retrieval-Augmented Generation system using vector search, LLM orchestration, and intelligent retrieval pipelines.
-
-## 🤖 Fine-Tuning LLMs with Hugging Face
-
-Hands-on implementation of transformer fine-tuning workflows using Hugging Face for applied LLM engineering.
-
-## ⚡ PPO / SAC / A3C Reinforcement Learning Systems
-
-Implementation of advanced RL algorithms including PPO, SAC, and A3C with practical experimentation and training workflows.
-
-## 📡 ClickHouse Ingestion Tool
-
-Scalable ingestion and processing system designed for high-throughput analytics workflows.
-
-## 🎧 WAV → FLAC Converter
-
-Real-time high-performance audio conversion service built with Go, FFmpeg & WebSockets.
-
-## 📊 InsightHub Dashboard
-
-Modern analytics dashboard with interactive visualizations and real-time insights.
-
-## 🤖 TalentScout Hiring Assistant
-
-AI-powered hiring assistant supporting multilingual technical interviews and automated candidate evaluation.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🧠 **SimplifyX Enterprise RAG** | Enterprise-grade Retrieval-Augmented Generation with vector search & LLM orchestration | LangChain · Vector DB · Python |
+| 🤖 **Fine-Tuning LLMs** | Transformer fine-tuning workflows for applied LLM engineering | Hugging Face · PyTorch |
+| ⚡ **PPO / SAC / A3C RL Systems** | Advanced reinforcement learning algorithm implementations with training pipelines | Python · Gym |
+| 📡 **ClickHouse Ingestion Tool** | Scalable high-throughput analytics ingestion & processing system | ClickHouse · Python |
+| 🎧 **WAV → FLAC Converter** | Real-time high-performance audio conversion service | Go · FFmpeg · WebSockets |
+| 📊 **InsightHub Dashboard** | Modern analytics dashboard with interactive real-time visualizations | React · Chart.js |
+| 🤖 **TalentScout Hiring Assistant** | AI-powered multilingual hiring assistant with automated candidate evaluation | FastAPI · LLM |
 
 ---
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ayushpal11\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushpal11\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpal11\&theme=tokyonight\&hide_border=true\&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayushpal11&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayushpal11&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpal11&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/ayushpal11)
+⚡ *Turned a love for coding into a real-time audio converter for hi-fi enthusiasts.*
+**Let's connect and innovate together!** 😊
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github)](https://github.com/Ayushpal11)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpal11/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
-
----
-
-# 💭 Philosophy
-
-> “Build scalable systems, solve meaningful problems, and keep learning relentlessly.”
-
----
-
-![](https://komarev.com/ghpvc/?username=ayushpal11\&style=for-the-badge)
+</div>
