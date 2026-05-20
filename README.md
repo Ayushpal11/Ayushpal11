@@ -1,23 +1,129 @@
-# 💫 About Me  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Ayush Pal
 
-Hi there! I’m **Ayush Pal**, a rececnt CSE grad from **VIT Vellore** currently working at Payoneer. I thrive on crafting innovative tech solutions, from scalable web apps to AI-powered systems.  
+### 🚀 AI Backend Engineer | Applied AI | Distributed Systems
 
-### 🌟 What I’m Up To:  
-- 🚀 **Projects**: Building tools like **Ask PDF**, an AI-driven document assistant, and **TaskFlow Manager**, a workflow optimization app.  
-- 🌱 **Learning**: Diving into **DevOps**, **Web3**, and backend architectures to enhance scalability and performance.  
-- 🤝 **Collaborating**: Open to working on impactful open-source projects in **web development**, **AI**, or **real-time systems**.  
+<img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### ⚡ Fun Fact:  
-I turned my love for coding into creative problem-solving tools like a real-time audio converter for high-fidelity enthusiasts!  
+I’m a Computer Science graduate from **VIT Vellore** passionate about building scalable backend systems, AI-powered applications, and low-latency architectures.
 
-Let’s connect and innovate together. 😊  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpal11/) 
+Currently focused on:
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushpal11&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushpal11&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpal11&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+* 🧠 LLMs, RAG Pipelines & AI Systems
+* ⚡ Backend Engineering & Distributed Systems
+* 📈 Reinforcement Learning & AI Infrastructure
+* 🚀 High-performance Real-Time Applications
 
+I enjoy building production-ready systems that combine strong engineering with practical AI.
+
+---
+
+# 🌟 Current Focus
+
+* 🔭 Building enterprise-grade AI applications
+* 🌱 Exploring AI Infra, Kubernetes & scalable architectures
+* ⚙️ Working with FastAPI, Docker, Vector DBs & LLM workflows
+* 🧠 Researching Reinforcement Learning & Agentic AI Systems
+* 🤝 Open to collaborating on AI, Backend & Open Source projects
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+
+---
+
+### ⚙️ Backend & AI
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge\&logo=express)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Vector DB](https://img.shields.io/badge/VectorDB-4B0082?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blueviolet?style=for-the-badge)
+
+---
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+
+---
+
+### 🗄️ Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 SimplifyX Enterprise RAG
+
+Enterprise-grade Retrieval-Augmented Generation system using vector search, LLM orchestration, and intelligent retrieval pipelines.
+
+## 🤖 Fine-Tuning LLMs with Hugging Face
+
+Hands-on implementation of transformer fine-tuning workflows using Hugging Face for applied LLM engineering.
+
+## ⚡ PPO / SAC / A3C Reinforcement Learning Systems
+
+Implementation of advanced RL algorithms including PPO, SAC, and A3C with practical experimentation and training workflows.
+
+## 📡 ClickHouse Ingestion Tool
+
+Scalable ingestion and processing system designed for high-throughput analytics workflows.
+
+## 🎧 WAV → FLAC Converter
+
+Real-time high-performance audio conversion service built with Go, FFmpeg & WebSockets.
+
+## 📊 InsightHub Dashboard
+
+Modern analytics dashboard with interactive visualizations and real-time insights.
+
+## 🤖 TalentScout Hiring Assistant
+
+AI-powered hiring assistant supporting multilingual technical interviews and automated candidate evaluation.
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ayushpal11\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayushpal11\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpal11\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/ayushpal11)
+
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github)](https://github.com/Ayushpal11)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/)
+
+---
+
+# 💭 Philosophy
+
+> “Build scalable systems, solve meaningful problems, and keep learning relentlessly.”
+
+---
+
+![](https://komarev.com/ghpvc/?username=ayushpal11\&style=for-the-badge)
