@@ -7,7 +7,11 @@
 ### AI Backend Engineer · Distributed Systems · Applied AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpal11/)
-[![Payoneer](https://img.shields.io/badge/Payoneer-FF4800?style=for-the-badge&logo=payoneer&logoColor=white)](https://www.payoneer.com)
+<a href="https://www.payoneer.com">
+  <img src="https://pubs.payoneer.com/v2/ui-assets/logos/payoneer/payoneer-dark-logo.svg" 
+       alt="Payoneer" 
+       width="120"/>
+</a>
 
 </div>
 
