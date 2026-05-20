@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I’m a Computer Science graduate from **VIT Vellore** passionate about building scalable backend systems, AI-powered applications, and low-latency architectures.
+I’m a Computer Science graduate from **VIT Vellore** working as **Software Engineer** at **Payoneer** passionate about building scalable backend systems, AI-powered applications, and low-latency architectures.
 
 Currently focused on:
 
