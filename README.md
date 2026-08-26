@@ -202,17 +202,16 @@ Small, fast services that do one thing and don't fall over doing it.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
-
+ 
 ## 📊 GitHub Analytics
-
+ 
 <div align="center">
-
 ![Ayushpal11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushpal11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushpal11&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ayushpal11&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpal11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
+ 
 </div>
 
 ---
