@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I'm+Ayush;I+teach+machines+to+think;Backend+systems+that+scale;AI+agents+that+actually+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I'm+Ayush;I+teach+machines+t[...]">
 
 ### one part backend engineer, one part mad scientist with a GPU 🧪⚡
 
@@ -31,18 +31,18 @@ $ status --current
 
 <br clear="right"/>
 
-I like systems that stay up, agents that stay useful, and code reviews that stay short. Somewhere between "distributed systems nerd" and "let's just see what this RL agent does" is where I actually live.
+I like systems that stay up, agents that stay useful, and code reviews that stay short. Somewhere between "distributed systems nerd" and "let's just see what this RL agent does" is where I actuall[...]
 
 ---
 
 ## 🧭 The Map of What I Build
 
 ```
-┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────┐
+┌─────────────────────┐     ┌─────────────────────┐     ┌───────────────[...]
 │   🧠 RAG & LLMs     │───▶│   🤖 Agentic AI     │───▶│  ⚡ Backend @ Scale │
 │  retrieval that     │     │  agents that act,   │     │  APIs that survive  │
 │  actually retrieve  │     │  not just chat      │     │  the traffic spike  │
-└─────────────────────┘     └─────────────────────┘     └─────────────────┘
+└─────────────────────┘     └─────────────────────┘     └───────────────[...]
            │                           │                           │
            ▼                           ▼                           ▼
     Vector search,              Multi-step workflows,       Low-latency, async,
@@ -207,11 +207,11 @@ Small, fast services that do one thing and don't fall over doing it.
 
 <div align="center">
 
-![Ayushpal11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushpal11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Ayushpal11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushpal11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ayushpal11&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ayushpal11&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpal11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushpal11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
@@ -219,7 +219,7 @@ Small, fast services that do one thing and don't fall over doing it.
 
 ## 💬 Ask Me About
 
-`RAG architecture that doesn't fall apart at scale` · `why your RL agent is stuck in a local optimum` · `agentic workflows vs. "just add more prompts"` · `ClickHouse for real-time pipelines` · `why Kubernetes needs a therapist`
+`RAG architecture that doesn't fall apart at scale` · `why your RL agent is stuck in a local optimum` · `agentic workflows vs. "just add more prompts"` · `ClickHouse for real-time pipelines` �[...]
 
 ---
 
