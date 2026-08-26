@@ -1,11 +1,11 @@
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Ayush+Pal;AI+Backend+Engineer;Distributed+Systems;Applied+AI" alt="Typing SVG" />
 
-### Crafting intelligent systems that scale 🧠⚡
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I'm+Ayush;I+teach+machines+to+make+decisions;I+turn+3am+bugs+into+3pm+features;Currently%3A+shipping+at+Payoneer" alt="Typing SVG" />
+
+### one part backend engineer, one part mad scientist with a GPU 🧪⚡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpal11/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Ayushpal11/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-mu-one-41.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushpal11)
 
 </div>
@@ -14,19 +14,40 @@
 
 <img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-**CS graduate from VIT Vellore** 🎓  
-**Software Engineer at Payoneer** 💼  
-Building scalable backend systems, AI-powered applications, and low-latency architectures that solve real-world problems.
+```bash
+$ whoami
+Ayush Pal — CS grad from VIT Vellore, Software Engineer @ Payoneer
 
-### 🎯 What I'm Currently Building:
+$ cat mission.txt
+Build systems that don't fall over at 3am.
+Make LLMs actually useful instead of just impressive.
+Ship things people forget are hard to build.
 
-- 🧠 **LLMs & RAG Pipelines** — Enterprise-grade retrieval-augmented generation systems
-- ⚡ **Backend Engineering** — Distributed systems, microservices, high-performance APIs
-- 📈 **Reinforcement Learning** — Advanced RL algorithms (PPO, SAC, A3C) & AI infrastructure
-- 🤖 **Agentic AI** — Autonomous agents for research, automation, and multi-step workflows
-- 🚀 **Real-Time Applications** — WebSockets, streaming data, low-latency systems
+$ status --current
+🧠 training RL agents to make better decisions than me
+⚡ building RAG pipelines that don't hallucinate (mostly)
+🤖 wiring up agents that do the boring work so I don't have to
+```
 
 <br clear="right"/>
+
+I like systems that stay up, agents that stay useful, and code reviews that stay short. Somewhere between "distributed systems nerd" and "let's just see what this RL agent does" is where I actually live.
+
+---
+
+## 🧭 The Map of What I Build
+
+```
+┌─────────────────────┐     ┌─────────────────────┐     ┌─────────────────────┐
+│   🧠 RAG & LLMs     │───▶│   🤖 Agentic AI     │───▶│  ⚡ Backend @ Scale │
+│  retrieval that     │     │  agents that act,   │     │  APIs that survive  │
+│  actually retrieve  │     │  not just chat      │     │  the traffic spike  │
+└─────────────────────┘     └─────────────────────┘     └─────────────────────┘
+           │                           │                           │
+           ▼                           ▼                           ▼
+    Vector search,              Multi-step workflows,       Low-latency, async,
+    LLM orchestration           human-in-the-loop            production-grade
+```
 
 ---
 
@@ -36,28 +57,28 @@ Building scalable backend systems, AI-powered applications, and low-latency arch
 <tr>
 <td width="50%">
 
-### 🧠 **Enterprise RAG Systems**
-Sophisticated retrieval-augmented generation with vector search and LLM orchestration.
-- **SimplifyX_Enterprise_RAG** — Production-grade RAG
-- **Ask-PDF** — Full-stack PDF intelligence
-- **AI_Site_Research** — Web scraping & summarization agent
+### 🧠 Enterprise RAG Systems
+Retrieval-augmented generation that's built for production, not a demo.
+- **SimplifyX_Enterprise_RAG** — production-grade RAG
+- **Ask-PDF** — full-stack PDF intelligence
+- **AI_Site_Research** — scraping + summarization agent
 
 **Stack:** LangChain · Vector DB · Python · FastAPI
 
-[→ Explore RAG Projects](https://github.com/Ayushpal11?tab=repositories&q=RAG+SimplifyX+AI_Site)
+[→ Explore RAG Projects](https://github.com/Ayushpal11?tab=repositories)
 
 </td>
 <td width="50%">
 
-### 🤖 **AI Agents & Automation**
-Human-in-the-loop agentic systems for real-world automation.
-- **AIxplore** — Multi-purpose automation agent
+### 🤖 AI Agents & Automation
+Agents that do the tedious parts of work so humans can do the interesting parts.
+- **AIxplore** — multi-purpose automation agent
 - **Apply-res-profile** — AI job-search pipeline
-- **BlogForge-AI** — Multi-agent content generation
+- **BlogForge-AI** — multi-agent content generation
 
 **Stack:** LangChain · Claude · FastAPI · Async Python
 
-[→ Explore AI Projects](https://github.com/Ayushpal11?tab=repositories&q=AIxplore+Apply+BlogForge)
+[→ Explore AI Projects](https://github.com/Ayushpal11?tab=repositories)
 
 </td>
 </tr>
@@ -65,30 +86,30 @@ Human-in-the-loop agentic systems for real-world automation.
 <tr>
 <td width="50%">
 
-### 🎮 **Reinforcement Learning**
-Production-ready RL algorithm implementations.
+### 🎮 Reinforcement Learning
+Because sometimes the best debugger is watching an agent learn from its own mistakes.
 - **PPO_Algo** — Proximal Policy Optimization
-- **SAC** — Soft Actor-Critic algorithm
+- **SAC** — Soft Actor-Critic
 - **A3C_KungFu** — Asynchronous Advantage Actor-Critic
 - **Q_learning_Lunar_landing** — DQN implementations
 
 **Stack:** Python · Gym · PyTorch · NumPy
 
-[→ Explore RL Projects](https://github.com/Ayushpal11?tab=repositories&q=PPO+SAC+A3C+Q_learning)
+[→ Explore RL Projects](https://github.com/Ayushpal11?tab=repositories)
 
 </td>
 <td width="50%">
 
-### 📊 **Data & Analytics**
-End-to-end analytics platforms and data pipelines.
-- **clickhouse-ingestion-tool** — High-throughput data ingestion
+### 📊 Data & Analytics
+Pipelines that turn raw noise into something a human can actually act on.
+- **clickhouse-ingestion-tool** — high-throughput ingestion
 - **Observability-Demo** — OpenTelemetry & SigNoz
-- **traffic-demand-prediction-ML-** — ML pipeline
-- **InsightHub-Dashboard** — Real-time analytics UI
+- **traffic-demand-prediction-ML** — ML pipeline
+- **InsightHub-Dashboard** — real-time analytics UI
 
 **Stack:** ClickHouse · React · Chart.js · Python
 
-[→ Explore Analytics Projects](https://github.com/Ayushpal11?tab=repositories&q=clickhouse+InsightHub+Observability)
+[→ Explore Analytics Projects](https://github.com/Ayushpal11?tab=repositories)
 
 </td>
 </tr>
@@ -96,30 +117,30 @@ End-to-end analytics platforms and data pipelines.
 <tr>
 <td width="50%">
 
-### 🛠️ **Full-Stack Applications**
-End-to-end web applications with modern tech stacks.
-- **Folio_Optimus** — Portfolio optimization engine
-- **Inboxbox-ai** — Email aggregator with IMAP sync
-- **package-paradise-find** — Travel package comparison
-- **Learning-tracker** — Full-stack learning platform
+### 🛠️ Full-Stack Applications
+End-to-end apps, because someone has to own the whole vertical.
+- **Folio_Optimus** — portfolio optimization engine
+- **Inboxbox-ai** — email aggregator with IMAP sync
+- **package-paradise-find** — travel package comparison
+- **Learning-tracker** — full-stack learning platform
 
 **Stack:** React · Next.js · Node.js · MongoDB · Firebase
 
-[→ Explore Web Projects](https://github.com/Ayushpal11?tab=repositories&q=Folio_Optimus+Inboxbox+package-paradise)
+[→ Explore Web Projects](https://github.com/Ayushpal11?tab=repositories)
 
 </td>
 <td width="50%">
 
-### 🎵 **Real-Time Services**
-High-performance backend services.
-- **wav-flac-converter** — Real-time audio processing
-- **BiteSpeed-API** — Identity reconciliation service
-- **Modular_Integrations** — Third-party service connector
+### 🎵 Real-Time Services
+Small, fast services that do one thing and don't fall over doing it.
+- **wav-flac-converter** — real-time audio processing
+- **BiteSpeed-API** — identity reconciliation service
+- **Modular_Integrations** — third-party service connector
 - **SongSnap** — iOS music identification
 
 **Stack:** Go · FastAPI · Node.js · Python · SwiftUI
 
-[→ Explore Backend Projects](https://github.com/Ayushpal11?tab=repositories&q=wav-flac+BiteSpeed+Modular)
+[→ Explore Backend Projects](https://github.com/Ayushpal11?tab=repositories)
 
 </td>
 </tr>
@@ -196,26 +217,32 @@ High-performance backend services.
 
 ---
 
-## 🎯 What's Next?
+## 💬 Ask Me About
 
-- 🔬 Advancing **Agentic AI Systems** with multi-step reasoning
-- 📡 Exploring **Edge AI** and on-device ML models
-- 🌐 Building **Distributed Systems** at scale
-- 🧪 Contributing to **Open Source AI** projects
-- 🎓 Mentoring others in **AI/ML & Backend Engineering**
+`RAG architecture that doesn't fall apart at scale` · `why your RL agent is stuck in a local optimum` · `agentic workflows vs. "just add more prompts"` · `ClickHouse for real-time pipelines` · `whether that microservice really needed to be a microservice`
 
 ---
 
-## 🤝 Let's Connect!
+## 🎯 What's Next?
 
-I'm passionate about building intelligent systems and collaborating on projects that push the boundaries of AI and backend engineering. Whether it's RAG pipelines, reinforcement learning, or distributed systems — let's create something impactful together!
+- 🔬 Pushing **agentic systems** further into multi-step reasoning territory
+- 📡 Poking around **edge AI** and on-device inference
+- 🌐 Scaling **distributed systems** without losing sleep
+- 🧪 Sending PRs to **open-source AI** projects
+- 🎓 Mentoring folks getting into AI/ML & backend engineering
+
+---
+
+## 🤝 Let's Build Something
+
+Got an idea involving RAG, RL, agents, or backend systems that need to survive contact with real users? I'm in.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpal11/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushpal11@email.com)
-[![Portfolio](https://img.shields.io/badge/Check_My_Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Ayushpal11/Portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushpal74553@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Check_My_Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-mu-one-41.vercel.app/)
 
-**⚡ Turning ideas into intelligent systems. Let's build the future together!**
+**⚡ Turning ideas into intelligent systems, one commit at a time.**
 
 </div>
