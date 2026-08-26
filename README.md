@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Hey%2C+I'm+Ayush;I+teach+machines+t[...]">
 
-### one part backend engineer, one part mad scientist with a GPU 🧪⚡
+### one part backend engineer one part an SDET, one part mad scientist with a GPU 🧪⚡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpal11/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6B6B.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-mu-one-41.vercel.app/)
