@@ -38,15 +38,15 @@ I like systems that stay up, agents that stay useful, and code reviews that stay
 ## 🧭 The Map of What I Build
 
 ```
-┌─────────────────────┐     ┌─────────────────────┐     ┌───────────────[...]
-│   🧠 RAG & LLMs     │───▶│   🤖 Agentic AI     │───▶│  ⚡ Backend @ Scale │
-│  retrieval that     │     │  agents that act,   │     │  APIs that survive  │
-│  actually retrieve  │     │  not just chat      │     │  the traffic spike  │
-└─────────────────────┘     └─────────────────────┘     └───────────────[...]
-           │                           │                           │
-           ▼                           ▼                           ▼
-    Vector search,              Multi-step workflows,       Low-latency, async,
-    LLM orchestration           human-in-the-loop            production-grade
+┌─────────────────────────┐   ┌─────────────────────────┐   ┌─────────────────────────┐
+│      🧠 RAG & LLMs      │──▶│     🤖 Agentic AI       │──▶│    ⚡ Backend @ Scale    │
+│   retrieval that        │   │   agents that act,      │   │   APIs that survive     │
+│   actually retrieve     │   │    not just chat        │   │    the traffic spike    │
+└─────────────────────────┘   └─────────────────────────┘   └─────────────────────────┘
+            │                         │                         │
+            ▼                         ▼                         ▼
+   Vector search,          Multi-step workflows,     Low-latency, async,
+   LLM orchestration       human-in-the-loop         production-grade
 ```
 
 ---
@@ -209,9 +209,9 @@ Small, fast services that do one thing and don't fall over doing it.
 
 ![Ayushpal11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushpal11&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ayushpal11&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ayushpal11&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushpal11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpal11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
